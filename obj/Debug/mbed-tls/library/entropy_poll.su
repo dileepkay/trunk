@@ -1,0 +1,2 @@
+entropy_poll.c:50:5:platform_entropy_poll	64	static
+entropy_poll.c:142:5:hardclock_poll	32	static

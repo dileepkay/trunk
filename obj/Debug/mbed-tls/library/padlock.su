@@ -1,0 +1,3 @@
+padlock.c:44:5:padlock_supports	24	static
+padlock.c:75:5:padlock_xcryptecb	320	static
+padlock.c:115:5:padlock_xcryptcbc	336	static

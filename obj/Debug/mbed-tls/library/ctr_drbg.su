@@ -1,0 +1,17 @@
+ctr_drbg.c:49:13:polarssl_zeroize	24	static
+ctr_drbg.c:57:5:ctr_drbg_init_entropy_len	80	static
+ctr_drbg.c:90:5:ctr_drbg_init	48	static
+ctr_drbg.c:100:6:ctr_drbg_free	32	static
+ctr_drbg.c:109:6:ctr_drbg_set_prediction_resistance	8	static
+ctr_drbg.c:114:6:ctr_drbg_set_entropy_len	8	static
+ctr_drbg.c:119:6:ctr_drbg_set_reseed_interval	8	static
+ctr_drbg.c:124:12:block_cipher_df	864	static
+ctr_drbg.c:214:12:ctr_drbg_update_internal	96	static
+ctr_drbg.c:252:6:ctr_drbg_update	80	static
+ctr_drbg.c:269:5:ctr_drbg_reseed	432	static
+ctr_drbg.c:314:5:ctr_drbg_random_with_add	128	static
+ctr_drbg.c:380:5:ctr_drbg_random	48	static
+ctr_drbg.c:386:5:ctr_drbg_write_seed_file	304	static
+ctr_drbg.c:411:5:ctr_drbg_update_seed_file	304	static
+ctr_drbg.c:489:12:ctr_drbg_self_test_entropy	48	static
+ctr_drbg.c:508:5:ctr_drbg_self_test	384	static

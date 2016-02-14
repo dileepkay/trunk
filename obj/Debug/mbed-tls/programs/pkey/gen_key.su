@@ -1,0 +1,2 @@
+gen_key.c:132:12:write_private_key	16048	static
+gen_key.c:189:5:main	2240	static

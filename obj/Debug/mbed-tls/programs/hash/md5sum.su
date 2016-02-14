@@ -1,0 +1,4 @@
+md5sum.c:51:12:md5_wrapper	48	static
+md5sum.c:64:12:md5_print	64	static
+md5sum.c:79:12:md5_check	1152	static
+md5sum.c:160:5:main	48	static

@@ -1,0 +1,6 @@
+ssl_mail_client.c:126:13:my_debug	32	static
+ssl_mail_client.c:135:12:do_handshake	1072	static
+ssl_mail_client.c:197:12:write_ssl_data	48	static
+ssl_mail_client.c:214:12:write_ssl_and_get_response	176	static
+ssl_mail_client.c:272:12:write_and_get_response	176	static
+ssl_mail_client.c:356:5:main	4432	dynamic,bounded

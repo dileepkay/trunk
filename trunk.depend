@@ -1,0 +1,1367 @@
+# depslib dependency file v1.0
+1385316878 source:c:\localgitrepository\trunk\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1455432215 source:c:\localgitrepository\trunk\source\common\utilities.c
+	"../config/config.h"
+
+1455425658 c:\localgitrepository\trunk\source\common\debug.h
+
+1455432777 source:c:\localgitrepository\trunk\source\main\main.c
+	"../config/config.h"
+
+1455432800 c:\localgitrepository\trunk\source\config\config.h
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	<assert.h>
+	"../common/utilities.h"
+	"../common/debug.h"
+	"../crypto/crypto.h"
+
+1455426154 c:\localgitrepository\trunk\source\common\utilities.h
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\aes.c
+	"polarssl/config.h"
+	"polarssl/aes.h"
+	"polarssl/padlock.h"
+	"polarssl/aesni.h"
+	"polarssl/platform.h"
+	<stdio.h>
+	<stdio.h>
+
+1431951199 c:\localgitrepository\trunk\mbed-tls\include\polarssl\config.h
+	"check_config.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\check_config.h
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\aes.h
+	"config.h"
+	<string.h>
+	<basetsd.h>
+	<inttypes.h>
+	"aes_alt.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\padlock.h
+	"aes.h"
+	<basetsd.h>
+	<inttypes.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\aesni.h
+	"aes.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\platform.h
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\aesni.c
+	"polarssl/config.h"
+	"polarssl/aesni.h"
+	<stdio.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\arc4.c
+	"polarssl/config.h"
+	"polarssl/arc4.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\arc4.h
+	"config.h"
+	<string.h>
+	"arc4_alt.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\asn1parse.c
+	"polarssl/config.h"
+	"polarssl/asn1.h"
+	"polarssl/bignum.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdlib.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\asn1.h
+	"config.h"
+	"bignum.h"
+	<string.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\bignum.h
+	<string.h>
+	"config.h"
+	<stdio.h>
+	<basetsd.h>
+	<inttypes.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\asn1write.c
+	"polarssl/config.h"
+	"polarssl/asn1write.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\asn1write.h
+	"asn1.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\base64.c
+	"polarssl/config.h"
+	"polarssl/base64.h"
+	<basetsd.h>
+	<inttypes.h>
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\base64.h
+	<string.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\bignum.c
+	"polarssl/config.h"
+	"polarssl/bignum.h"
+	"polarssl/bn_mul.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\bn_mul.h
+	"bignum.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\blowfish.c
+	"polarssl/config.h"
+	"polarssl/blowfish.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\blowfish.h
+	"config.h"
+	<string.h>
+	<basetsd.h>
+	<inttypes.h>
+	"blowfish_alt.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\camellia.c
+	"polarssl/config.h"
+	"polarssl/camellia.h"
+	"polarssl/platform.h"
+	<stdio.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\camellia.h
+	"config.h"
+	<string.h>
+	<basetsd.h>
+	<inttypes.h>
+	"camellia_alt.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\ccm.c
+	"polarssl/config.h"
+	"polarssl/ccm.h"
+	"polarssl/platform.h"
+	<stdio.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\ccm.h
+	"cipher.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\cipher.h
+	"config.h"
+	<string.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\certs.c
+	"polarssl/config.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\cipher.c
+	"polarssl/config.h"
+	"polarssl/cipher.h"
+	"polarssl/cipher_wrap.h"
+	"polarssl/gcm.h"
+	"polarssl/ccm.h"
+	<stdlib.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\cipher_wrap.h
+	"config.h"
+	"cipher.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\gcm.h
+	"cipher.h"
+	<basetsd.h>
+	<stdint.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\cipher_wrap.c
+	"polarssl/config.h"
+	"polarssl/cipher_wrap.h"
+	"polarssl/aes.h"
+	"polarssl/arc4.h"
+	"polarssl/camellia.h"
+	"polarssl/des.h"
+	"polarssl/blowfish.h"
+	"polarssl/gcm.h"
+	"polarssl/ccm.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\des.h
+	"config.h"
+	<string.h>
+	<basetsd.h>
+	<inttypes.h>
+	"des_alt.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\ctr_drbg.c
+	"polarssl/config.h"
+	"polarssl/ctr_drbg.h"
+	<stdio.h>
+	"polarssl/platform.h"
+	<stdio.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\ctr_drbg.h
+	<string.h>
+	"aes.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\debug.c
+	"polarssl/config.h"
+	"polarssl/debug.h"
+	<stdarg.h>
+	<stdlib.h>
+	<stdio.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\debug.h
+	"config.h"
+	"ssl.h"
+	"ecp.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\ssl.h
+	"config.h"
+	"net.h"
+	"bignum.h"
+	"ecp.h"
+	"ssl_ciphersuites.h"
+	"md5.h"
+	"sha1.h"
+	"sha256.h"
+	"sha512.h"
+	"aes.h"
+	"x509_crt.h"
+	"x509_crl.h"
+	"dhm.h"
+	"ecdh.h"
+	"zlib.h"
+	<time.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\net.h
+	<string.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\ecp.h
+	"bignum.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\ssl_ciphersuites.h
+	"pk.h"
+	"cipher.h"
+	"md.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\pk.h
+	"config.h"
+	"md.h"
+	"rsa.h"
+	"ecp.h"
+	"ecdsa.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\md.h
+	<string.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\rsa.h
+	"config.h"
+	"bignum.h"
+	"md.h"
+	"threading.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\threading.h
+	"config.h"
+	<stdlib.h>
+	<pthread.h>
+	"threading_alt.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\ecdsa.h
+	"ecp.h"
+	"md.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\md5.h
+	"config.h"
+	<string.h>
+	<basetsd.h>
+	<inttypes.h>
+	"md5_alt.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\sha1.h
+	"config.h"
+	<string.h>
+	<basetsd.h>
+	<inttypes.h>
+	"sha1_alt.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\sha256.h
+	"config.h"
+	<string.h>
+	<basetsd.h>
+	<inttypes.h>
+	"sha256_alt.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\sha512.h
+	"config.h"
+	<string.h>
+	<inttypes.h>
+	"sha512_alt.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\x509_crt.h
+	"config.h"
+	"x509.h"
+	"x509_crl.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\x509.h
+	"config.h"
+	"asn1.h"
+	"pk.h"
+	"rsa.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\x509_crl.h
+	"config.h"
+	"x509.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\dhm.h
+	"bignum.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\ecdh.h
+	"ecp.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\des.c
+	"polarssl/config.h"
+	"polarssl/des.h"
+	"polarssl/platform.h"
+	<stdio.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\dhm.c
+	"polarssl/config.h"
+	"polarssl/dhm.h"
+	"polarssl/pem.h"
+	"polarssl/asn1.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+	"polarssl/certs.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\pem.h
+	<string.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\certs.h
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\ecdh.c
+	"polarssl/config.h"
+	"polarssl/ecdh.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\ecdsa.c
+	"polarssl/config.h"
+	"polarssl/ecdsa.h"
+	"polarssl/asn1write.h"
+	"polarssl/hmac_drbg.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\hmac_drbg.h
+	"md.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\ecp.c
+	"polarssl/config.h"
+	"polarssl/ecp.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\ecp_curves.c
+	"polarssl/config.h"
+	"polarssl/ecp.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\entropy.c
+	"polarssl/config.h"
+	"polarssl/entropy.h"
+	"polarssl/entropy_poll.h"
+	<stdio.h>
+	"polarssl/havege.h"
+	"polarssl/platform.h"
+	<stdio.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\entropy.h
+	<string.h>
+	"config.h"
+	"sha512.h"
+	"sha256.h"
+	"threading.h"
+	"havege.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\havege.h
+	<string.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\entropy_poll.h
+	<string.h>
+	"config.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\entropy_poll.c
+	"polarssl/config.h"
+	"polarssl/entropy.h"
+	"polarssl/entropy_poll.h"
+	"polarssl/timing.h"
+	"polarssl/havege.h"
+	<windows.h>
+	<wincrypt.h>
+	<linux/version.h>
+	<unistd.h>
+	<sys/syscall.h>
+	<errno.h>
+	<stdio.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\timing.h
+	"config.h"
+	"timing_alt.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\error.c
+	"polarssl/config.h"
+	"polarssl/error.h"
+	"polarssl/aes.h"
+	"polarssl/base64.h"
+	"polarssl/bignum.h"
+	"polarssl/blowfish.h"
+	"polarssl/camellia.h"
+	"polarssl/ccm.h"
+	"polarssl/cipher.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/des.h"
+	"polarssl/dhm.h"
+	"polarssl/ecp.h"
+	"polarssl/entropy.h"
+	"polarssl/gcm.h"
+	"polarssl/hmac_drbg.h"
+	"polarssl/md.h"
+	"polarssl/md2.h"
+	"polarssl/md4.h"
+	"polarssl/md5.h"
+	"polarssl/net.h"
+	"polarssl/oid.h"
+	"polarssl/padlock.h"
+	"polarssl/pbkdf2.h"
+	"polarssl/pem.h"
+	"polarssl/pk.h"
+	"polarssl/pkcs12.h"
+	"polarssl/pkcs5.h"
+	"polarssl/ripemd160.h"
+	"polarssl/rsa.h"
+	"polarssl/sha1.h"
+	"polarssl/sha256.h"
+	"polarssl/sha512.h"
+	"polarssl/ssl.h"
+	"polarssl/threading.h"
+	"polarssl/x509.h"
+	"polarssl/xtea.h"
+	<stdio.h>
+	<string.h>
+	<string.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\error.h
+	<string.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\md2.h
+	"config.h"
+	<string.h>
+	"md2_alt.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\md4.h
+	"config.h"
+	<string.h>
+	<basetsd.h>
+	<inttypes.h>
+	"md4_alt.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\oid.h
+	<string.h>
+	"config.h"
+	"asn1.h"
+	"pk.h"
+	"cipher.h"
+	"md.h"
+	"x509.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\pbkdf2.h
+	<string.h>
+	"md.h"
+	<basetsd.h>
+	<inttypes.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\pkcs12.h
+	<string.h>
+	"md.h"
+	"cipher.h"
+	"asn1.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\pkcs5.h
+	<string.h>
+	"asn1.h"
+	"md.h"
+	<basetsd.h>
+	<inttypes.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\ripemd160.h
+	"config.h"
+	<string.h>
+	<basetsd.h>
+	<inttypes.h>
+	"ripemd160.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\xtea.h
+	"config.h"
+	<string.h>
+	<basetsd.h>
+	<inttypes.h>
+	"xtea_alt.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\gcm.c
+	"polarssl/config.h"
+	"polarssl/gcm.h"
+	"polarssl/aesni.h"
+	"polarssl/platform.h"
+	<stdio.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\havege.c
+	"polarssl/config.h"
+	"polarssl/havege.h"
+	"polarssl/timing.h"
+	<string.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\hmac_drbg.c
+	"polarssl/config.h"
+	"polarssl/hmac_drbg.h"
+	<stdio.h>
+	"polarssl/platform.h"
+	<stdio.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\md.c
+	"polarssl/config.h"
+	"polarssl/md.h"
+	"polarssl/md_wrap.h"
+	<stdlib.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\md_wrap.h
+	"config.h"
+	"md.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\md2.c
+	"polarssl/config.h"
+	"polarssl/md2.h"
+	<stdio.h>
+	"polarssl/platform.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\md4.c
+	"polarssl/config.h"
+	"polarssl/md4.h"
+	<stdio.h>
+	"polarssl/platform.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\md5.c
+	"polarssl/config.h"
+	"polarssl/md5.h"
+	<stdio.h>
+	"polarssl/platform.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\md_wrap.c
+	"polarssl/config.h"
+	"polarssl/md_wrap.h"
+	"polarssl/md2.h"
+	"polarssl/md4.h"
+	"polarssl/md5.h"
+	"polarssl/ripemd160.h"
+	"polarssl/sha1.h"
+	"polarssl/sha256.h"
+	"polarssl/sha512.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\memory_buffer_alloc.c
+	"polarssl/config.h"
+	"polarssl/memory_buffer_alloc.h"
+	<string.h>
+	<stdio.h>
+	<execinfo.h>
+	"polarssl/threading.h"
+	"polarssl/platform.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\memory_buffer_alloc.h
+	"config.h"
+	<stdlib.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\net.c
+	"polarssl/config.h"
+	"polarssl/net.h"
+	<ws2tcpip.h>
+	<winsock2.h>
+	<windows.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/time.h>
+	<unistd.h>
+	<signal.h>
+	<fcntl.h>
+	<netdb.h>
+	<errno.h>
+	<sys/endian.h>
+	<machine/endian.h>
+	<sys/isa_defs.h>
+	<arpa/nameser_compat.h>
+	<endian.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<basetsd.h>
+	<inttypes.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\oid.c
+	"polarssl/config.h"
+	"polarssl/oid.h"
+	"polarssl/rsa.h"
+	"polarssl/x509.h"
+	<stdio.h>
+	<stdarg.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\padlock.c
+	"polarssl/config.h"
+	"polarssl/padlock.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\pbkdf2.c
+	"polarssl/config.h"
+	"polarssl/pbkdf2.h"
+	"polarssl/pkcs5.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\pem.c
+	"polarssl/config.h"
+	"polarssl/pem.h"
+	"polarssl/base64.h"
+	"polarssl/des.h"
+	"polarssl/aes.h"
+	"polarssl/md5.h"
+	"polarssl/cipher.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\pk.c
+	"polarssl/config.h"
+	"polarssl/pk.h"
+	"polarssl/pk_wrap.h"
+	"polarssl/rsa.h"
+	"polarssl/ecp.h"
+	"polarssl/ecdsa.h"
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\pk_wrap.h
+	"config.h"
+	"pk.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\pk_wrap.c
+	"polarssl/config.h"
+	"polarssl/pk_wrap.h"
+	"polarssl/rsa.h"
+	"polarssl/ecp.h"
+	"polarssl/ecdsa.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\pkcs11.c
+	"polarssl/pkcs11.h"
+	"polarssl/md.h"
+	"polarssl/oid.h"
+	"polarssl/x509_crt.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\pkcs11.h
+	"config.h"
+	"x509_crt.h"
+	<pkcs11-helper-1.0/pkcs11h-certificate.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\pkcs12.c
+	"polarssl/config.h"
+	"polarssl/pkcs12.h"
+	"polarssl/asn1.h"
+	"polarssl/cipher.h"
+	"polarssl/arc4.h"
+	"polarssl/des.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\pkcs5.c
+	"polarssl/config.h"
+	"polarssl/pkcs5.h"
+	"polarssl/asn1.h"
+	"polarssl/cipher.h"
+	"polarssl/oid.h"
+	"polarssl/platform.h"
+	<stdio.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\pkparse.c
+	"polarssl/config.h"
+	"polarssl/pk.h"
+	"polarssl/asn1.h"
+	"polarssl/oid.h"
+	"polarssl/rsa.h"
+	"polarssl/ecp.h"
+	"polarssl/ecdsa.h"
+	"polarssl/pem.h"
+	"polarssl/pkcs5.h"
+	"polarssl/pkcs12.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\pkwrite.c
+	"polarssl/config.h"
+	"polarssl/pk.h"
+	"polarssl/asn1write.h"
+	"polarssl/oid.h"
+	"polarssl/rsa.h"
+	"polarssl/ecp.h"
+	"polarssl/ecdsa.h"
+	"polarssl/pem.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\platform.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\ripemd160.c
+	"polarssl/config.h"
+	"polarssl/ripemd160.h"
+	<stdio.h>
+	<string.h>
+	"polarssl/platform.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\rsa.c
+	"polarssl/config.h"
+	"polarssl/rsa.h"
+	"polarssl/oid.h"
+	"polarssl/md.h"
+	<stdlib.h>
+	<stdio.h>
+	"polarssl/platform.h"
+	"polarssl/sha1.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\sha1.c
+	"polarssl/config.h"
+	"polarssl/sha1.h"
+	<stdio.h>
+	"polarssl/platform.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\sha256.c
+	"polarssl/config.h"
+	"polarssl/sha256.h"
+	<stdio.h>
+	"polarssl/platform.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\sha512.c
+	"polarssl/config.h"
+	"polarssl/sha512.h"
+	<stdio.h>
+	"polarssl/platform.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\ssl_cache.c
+	"polarssl/config.h"
+	"polarssl/ssl_cache.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\ssl_cache.h
+	"ssl.h"
+	"threading.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\ssl_ciphersuites.c
+	"polarssl/config.h"
+	"polarssl/ssl_ciphersuites.h"
+	"polarssl/ssl.h"
+	<stdlib.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\ssl_cli.c
+	"polarssl/config.h"
+	"polarssl/debug.h"
+	"polarssl/ssl.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+	<stdio.h>
+	<basetsd.h>
+	<inttypes.h>
+	<time.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\ssl_srv.c
+	"polarssl/config.h"
+	"polarssl/debug.h"
+	"polarssl/ssl.h"
+	"polarssl/ecp.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\ssl_tls.c
+	"polarssl/config.h"
+	"polarssl/debug.h"
+	"polarssl/ssl.h"
+	"polarssl/oid.h"
+	"polarssl/platform.h"
+	<stdlib.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\threading.c
+	"polarssl/config.h"
+	"polarssl/threading.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\timing.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<stdio.h>
+	"polarssl/timing.h"
+	<windows.h>
+	<winbase.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/time.h>
+	<signal.h>
+	<time.h>
+	"polarssl/net.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\version.c
+	"polarssl/config.h"
+	"polarssl/version.h"
+	<string.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\version.h
+	"config.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\version_features.c
+	"polarssl/config.h"
+	"polarssl/version.h"
+	<string.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\x509.c
+	"polarssl/config.h"
+	"polarssl/x509.h"
+	"polarssl/asn1.h"
+	"polarssl/oid.h"
+	"polarssl/pem.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<dirent.h>
+	<stdarg.h>
+	"polarssl/x509_crt.h"
+	"polarssl/certs.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\x509_create.c
+	"polarssl/config.h"
+	"polarssl/x509.h"
+	"polarssl/asn1write.h"
+	"polarssl/oid.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\x509_crl.c
+	"polarssl/config.h"
+	"polarssl/x509_crl.h"
+	"polarssl/oid.h"
+	"polarssl/pem.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<stdarg.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\x509_crt.c
+	"polarssl/config.h"
+	"polarssl/x509_crt.h"
+	"polarssl/oid.h"
+	"polarssl/pem.h"
+	"polarssl/platform.h"
+	"polarssl/threading.h"
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<dirent.h>
+	<stdarg.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\x509_csr.c
+	"polarssl/config.h"
+	"polarssl/x509_csr.h"
+	"polarssl/oid.h"
+	"polarssl/pem.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+
+1423584042 c:\localgitrepository\trunk\mbed-tls\include\polarssl\x509_csr.h
+	"config.h"
+	"x509.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\x509write_crt.c
+	"polarssl/config.h"
+	"polarssl/x509_crt.h"
+	"polarssl/oid.h"
+	"polarssl/asn1write.h"
+	"polarssl/sha1.h"
+	"polarssl/pem.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\x509write_csr.c
+	"polarssl/config.h"
+	"polarssl/x509_csr.h"
+	"polarssl/oid.h"
+	"polarssl/asn1write.h"
+	"polarssl/pem.h"
+	<string.h>
+	<stdlib.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\library\xtea.c
+	"polarssl/config.h"
+	"polarssl/xtea.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\aes\aescrypt2.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<windows.h>
+	<io.h>
+	<sys/types.h>
+	<unistd.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"polarssl/aes.h"
+	"polarssl/sha256.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\aes\crypt_and_hash.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<windows.h>
+	<io.h>
+	<sys/types.h>
+	<unistd.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"polarssl/cipher.h"
+	"polarssl/md.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\hash\generic_sum.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/md.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\hash\hello.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<stdio.h>
+	"polarssl/md5.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\hash\md5sum.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/md5.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\hash\sha1sum.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/sha1.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\hash\sha2sum.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/sha256.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\dh_client.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/net.h"
+	"polarssl/aes.h"
+	"polarssl/dhm.h"
+	"polarssl/rsa.h"
+	"polarssl/sha1.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\dh_genprime.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<stdio.h>
+	"polarssl/bignum.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\dh_server.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/net.h"
+	"polarssl/aes.h"
+	"polarssl/dhm.h"
+	"polarssl/rsa.h"
+	"polarssl/sha1.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\ecdsa.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/ecdsa.h"
+	<string.h>
+	<stdio.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\gen_key.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	"polarssl/error.h"
+	"polarssl/pk.h"
+	"polarssl/ecdsa.h"
+	"polarssl/rsa.h"
+	"polarssl/error.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\key_app.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"polarssl/error.h"
+	"polarssl/rsa.h"
+	"polarssl/x509.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\key_app_writer.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"polarssl/error.h"
+	"polarssl/pk.h"
+	"polarssl/error.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\mpi_demo.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<stdio.h>
+	"polarssl/bignum.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\pk_decrypt.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/error.h"
+	"polarssl/pk.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\pk_encrypt.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/error.h"
+	"polarssl/pk.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\pk_sign.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/error.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/md.h"
+	"polarssl/pk.h"
+	"polarssl/sha1.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\pk_verify.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/error.h"
+	"polarssl/md.h"
+	"polarssl/pk.h"
+	"polarssl/sha1.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\rsa_decrypt.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/rsa.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\rsa_encrypt.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/rsa.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\rsa_genkey.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<stdio.h>
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/bignum.h"
+	"polarssl/x509.h"
+	"polarssl/rsa.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\rsa_sign.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/rsa.h"
+	"polarssl/sha1.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\rsa_sign_pss.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/md.h"
+	"polarssl/rsa.h"
+	"polarssl/sha1.h"
+	"polarssl/x509.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\rsa_verify.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/rsa.h"
+	"polarssl/sha1.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\pkey\rsa_verify_pss.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/md.h"
+	"polarssl/pem.h"
+	"polarssl/pk.h"
+	"polarssl/sha1.h"
+	"polarssl/x509.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\random\gen_entropy.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	"polarssl/entropy.h"
+	<stdio.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\random\gen_random_ctr_drbg.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+	<stdio.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\random\gen_random_havege.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	"polarssl/havege.h"
+	<time.h>
+	<stdio.h>
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\ssl\ssl_client1.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdio.h>
+	"polarssl/net.h"
+	"polarssl/debug.h"
+	"polarssl/ssl.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/error.h"
+	"polarssl/certs.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\ssl\ssl_client2.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"polarssl/net.h"
+	"polarssl/ssl.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/certs.h"
+	"polarssl/x509.h"
+	"polarssl/error.h"
+	"polarssl/debug.h"
+	"polarssl/timing.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\ssl\ssl_fork_server.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<signal.h>
+	<unistd.h>
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/certs.h"
+	"polarssl/x509.h"
+	"polarssl/ssl.h"
+	"polarssl/net.h"
+	"polarssl/timing.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\ssl\ssl_mail_client.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<io.h>
+	<winsock2.h>
+	<windows.h>
+	"polarssl/base64.h"
+	"polarssl/error.h"
+	"polarssl/net.h"
+	"polarssl/ssl.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/certs.h"
+	"polarssl/x509.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\ssl\ssl_pthread_server.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/certs.h"
+	"polarssl/x509.h"
+	"polarssl/ssl.h"
+	"polarssl/net.h"
+	"polarssl/error.h"
+	"polarssl/ssl_cache.h"
+	"polarssl/memory_buffer_alloc.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\ssl\ssl_server.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/certs.h"
+	"polarssl/x509.h"
+	"polarssl/ssl.h"
+	"polarssl/net.h"
+	"polarssl/error.h"
+	"polarssl/debug.h"
+	"polarssl/ssl_cache.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\ssl\ssl_server2.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<signal.h>
+	"polarssl/net.h"
+	"polarssl/ssl.h"
+	"polarssl/entropy.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/certs.h"
+	"polarssl/x509.h"
+	"polarssl/error.h"
+	"polarssl/debug.h"
+	"polarssl/ssl_cache.h"
+	"polarssl/memory_buffer_alloc.h"
+
+1423584042 source:c:\localgitrepository\trunk\mbed-tls\programs\test\benchmark.c
+	"polarssl/config.h"
+	"polarssl/platform.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"polarssl/timing.h"
+	"polarssl/md4.h"
+	"polarssl/md5.h"
+	"polarssl/ripemd160.h"
+	"polarssl/sha1.h"
+	"polarssl/sha256.h"
+	"polarssl/sha512.h"
+	"polarssl/arc4.h"
+	"polarssl/des.h"
+	"polarssl/aes.h"
+	"polarssl/blowfish.h"
+	"polarssl/camellia.h"
+	"polarssl/gcm.h"
+	"polarssl/ccm.h"
+	"polarssl/havege.h"
+	"polarssl/ctr_drbg.h"
+	"polarssl/hmac_drbg.h"
+	"polarssl/rsa.h"
+	"polarssl/dhm.h"
+	"polarssl/ecdsa.h"
+	"polarssl/ecdh.h"
+	"polarssl/error.h"
+
+1455428240 c:\localgitrepository\trunk\source\crypto\crypto.h
+	"C:\localGitRepository\trunk\mbed-tls\include\polarssl\config.h"
+	"C:\localGitRepository\trunk\mbed-tls\include\polarssl\error.h"
+	"C:\localGitRepository\trunk\mbed-tls\include\polarssl\ctr_drbg.h"
+	"C:\localGitRepository\trunk\mbed-tls\include\polarssl\entropy.h"
+	"C:\localGitRepository\trunk\mbed-tls\include\polarssl\sha256.h"
+	"C:\localGitRepository\trunk\mbed-tls\include\polarssl\aes.h"
+
+1455432312 source:c:\localgitrepository\trunk\source\crypto\crypto.c
+	"../config/config.h"
+
+1455432916 source:c:\localgitrepository\trunk\source\crypto\main_crypto.c
+	"../config/config.h"
+

@@ -1,0 +1,2 @@
+benchmark.c:82:12:myrand	48	static
+benchmark.c:175:5:main	4880	static

@@ -1,0 +1,15 @@
+sha512.c:49:13:polarssl_zeroize	24	static
+sha512.c:133:6:sha512_init	32	static
+sha512.c:138:6:sha512_free	16	static
+sha512.c:149:6:sha512_starts	8	static
+sha512.c:182:6:sha512_process	1568	static
+sha512.c:254:6:sha512_update	48	static
+sha512.c:306:6:sha512_finish	80	static
+sha512.c:344:6:sha512	512	static
+sha512.c:360:5:sha512_file	1536	static
+sha512.c:393:6:sha512_hmac_starts	112	static
+sha512.c:424:6:sha512_hmac_update	32	static
+sha512.c:433:6:sha512_hmac_finish	112	static
+sha512.c:453:6:sha512_hmac_reset	32	static
+sha512.c:462:6:sha512_hmac	512	static
+sha512.c:697:5:sha512_self_test	1616	static

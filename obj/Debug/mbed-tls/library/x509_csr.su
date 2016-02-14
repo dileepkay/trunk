@@ -1,0 +1,8 @@
+x509_csr.c:62:13:polarssl_zeroize	24	static
+x509_csr.c:69:12:x509_csr_get_version	48	static
+x509_csr.c:92:5:x509_csr_parse_der	80	static
+x509_csr.c:258:5:x509_csr_parse	80	static
+x509_csr.c:304:5:x509_csr_parse_file	48	static
+x509_csr.c:379:5:x509_csr_info	80	static
+x509_csr.c:422:6:x509_csr_init	32	static
+x509_csr.c:430:6:x509_csr_free	48	static

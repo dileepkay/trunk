@@ -1,0 +1,14 @@
+ecdsa.c:53:25:md_info_by_size	48	static
+ecdsa.c:76:12:derive_mpi	48	static
+ecdsa.c:99:5:ecdsa_sign	144	static
+ecdsa.c:188:5:ecdsa_sign_det	304	static
+ecdsa.c:232:5:ecdsa_verify	176	static
+ecdsa.c:338:12:ecdsa_signature_to_asn1	192	static
+ecdsa.c:362:5:ecdsa_write_signature	64	static
+ecdsa.c:383:5:ecdsa_write_signature_det	64	static
+ecdsa.c:403:5:ecdsa_read_signature	64	static
+ecdsa.c:439:5:ecdsa_genkey	48	static
+ecdsa.c:449:5:ecdsa_from_keypair	48	static
+ecdsa.c:466:6:ecdsa_init	32	static
+ecdsa.c:478:6:ecdsa_free	32	static
+ecdsa.c:492:5:ecdsa_self_test	8	static

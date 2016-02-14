@@ -1,0 +1,5 @@
+md.h:222:29:md_get_size	8	static
+pkcs5.c:52:12:pkcs5_parse_pbkdf2_params	64	static
+pkcs5.c:109:5:pkcs5_pbes2	288	static
+pkcs5.c:215:5:pkcs5_pbkdf2_hmac	192	static
+pkcs5.c:357:5:pkcs5_self_test	176	static

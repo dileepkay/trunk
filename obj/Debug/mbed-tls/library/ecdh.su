@@ -1,0 +1,11 @@
+ecdh.c:43:5:ecdh_gen_public	48	static
+ecdh.c:53:5:ecdh_compute_shared	96	static
+ecdh.c:87:6:ecdh_init	32	static
+ecdh.c:95:6:ecdh_free	32	static
+ecdh.c:117:5:ecdh_make_params	64	static
+ecdh.c:154:5:ecdh_read_params	48	static
+ecdh.c:172:5:ecdh_get_params	48	static
+ecdh.c:198:5:ecdh_make_public	64	static
+ecdh.c:219:5:ecdh_read_public	48	static
+ecdh.c:240:5:ecdh_calc_secret	64	static
+ecdh.c:269:5:ecdh_self_test	8	static

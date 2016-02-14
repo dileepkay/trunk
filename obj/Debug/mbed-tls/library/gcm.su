@@ -1,0 +1,11 @@
+gcm.c:77:13:polarssl_zeroize	24	static
+gcm.c:89:12:gcm_gen_table	144	static
+gcm.c:149:5:gcm_init	48	static
+gcm.c:198:13:gcm_mult	48	static
+gcm.c:254:5:gcm_starts	96	static
+gcm.c:335:5:gcm_update	96	static
+gcm.c:394:5:gcm_finish	80	static
+gcm.c:430:5:gcm_crypt_and_tag	64	static
+gcm.c:456:5:gcm_auth_decrypt	96	static
+gcm.c:492:6:gcm_free	32	static
+gcm.c:729:5:gcm_self_test	608	static

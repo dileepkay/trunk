@@ -1,0 +1,8 @@
+md.h:222:29:md_get_size	8	static
+pkcs12.c:50:13:polarssl_zeroize	24	static
+pkcs12.c:54:12:pkcs12_parse_pbe_params	48	static
+pkcs12.c:88:12:pkcs12_pbe_derive_key_iv	352	static
+pkcs12.c:127:5:pkcs12_pbe_sha1_rc4_128	336	static
+pkcs12.c:168:5:pkcs12_pbe	176	static
+pkcs12.c:225:13:pkcs12_fill_buffer	48	static
+pkcs12.c:240:5:pkcs12_derivation	656	static

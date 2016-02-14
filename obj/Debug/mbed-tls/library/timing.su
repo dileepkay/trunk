@@ -1,0 +1,7 @@
+timing.c:85:15:hardclock	32	static
+timing.c:233:15:get_timer	64	static
+timing.c:252:14:TimerProc	32	static
+timing.c:259:6:set_alarm	64	static
+timing.c:268:6:m_sleep	32	static
+timing.c:341:13:busy_msleep	80	static
+timing.c:362:5:timing_self_test	112	static

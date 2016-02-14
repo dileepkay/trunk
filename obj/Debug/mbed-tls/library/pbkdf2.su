@@ -1,0 +1,2 @@
+pbkdf2.c:45:5:pbkdf2_hmac	48	static
+pbkdf2.c:55:5:pbkdf2_self_test	32	static

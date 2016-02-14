@@ -1,0 +1,7 @@
+crypto.c:9:5:PrngGenerateBytes	64	static
+crypto.c:24:5:AESCryptCBC	352	static
+crypto.c:63:5:AESCryptECB	336	static
+crypto.c:96:5:AESCryptECB_Blocks	336	static
+crypto.c:131:8:TestAESCrypto	640	static
+crypto.c:226:6:testHash	304	static
+crypto.c:346:6:test_SHA256_HMAC	432	static

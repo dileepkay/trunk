@@ -1,0 +1,11 @@
+x509_crl.c:68:13:polarssl_zeroize	24	static
+x509_crl.c:75:12:x509_crl_get_version	48	static
+x509_crl.c:98:12:x509_get_crl_ext	48	static
+x509_crl.c:133:12:x509_get_crl_entry_ext	48	static
+x509_crl.c:187:12:x509_get_entries	64	static
+x509_crl.c:254:5:x509_crl_parse_der	96	static
+x509_crl.c:487:5:x509_crl_parse	80	static
+x509_crl.c:543:5:x509_crl_parse_file	48	static
+x509_crl.c:621:5:x509_crl_info	96	static
+x509_crl.c:696:6:x509_crl_init	32	static
+x509_crl.c:704:6:x509_crl_free	64	static

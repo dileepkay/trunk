@@ -1,0 +1,8 @@
+x509_create.c:81:20:x509_at_oid_from_name	48	static
+x509_create.c:93:5:x509_string_to_names	336	static
+x509_create.c:170:5:x509_set_extension	64	static
+x509_create.c:199:12:x509_write_name	48	static
+x509_create.c:237:5:x509_write_names	64	static
+x509_create.c:259:5:x509_write_sig	64	static
+x509_create.c:287:12:x509_write_extension	48	static
+x509_create.c:325:5:x509_write_extensions	48	static

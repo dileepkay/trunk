@@ -1,0 +1,11 @@
+blowfish.c:42:13:polarssl_zeroize	24	static
+blowfish.c:80:17:F	24	static
+blowfish.c:99:13:blowfish_enc	32	static
+blowfish.c:128:13:blowfish_dec	32	static
+blowfish.c:157:6:blowfish_init	32	static
+blowfish.c:162:6:blowfish_free	16	static
+blowfish.c:173:5:blowfish_setkey	56	static
+blowfish.c:231:5:blowfish_crypt_ecb	36	static
+blowfish.c:260:5:blowfish_crypt_cbc	48	static
+blowfish.c:314:5:blowfish_crypt_cfb64	40	static
+blowfish.c:362:5:blowfish_crypt_ctr	40	static

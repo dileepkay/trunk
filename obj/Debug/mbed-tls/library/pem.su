@@ -1,0 +1,10 @@
+pem.c:47:13:polarssl_zeroize	24	static
+pem.c:52:6:pem_init	32	static
+pem.c:62:12:pem_get_iv	48	static
+pem.c:84:13:pem_pbkdf1	288	static
+pem.c:136:13:pem_des_decrypt	192	static
+pem.c:158:13:pem_des3_decrypt	464	static
+pem.c:182:13:pem_aes_decrypt	368	static
+pem.c:205:5:pem_read_buffer	96	static
+pem.c:381:6:pem_free	32	static
+pem.c:391:5:pem_write_buffer	64	static

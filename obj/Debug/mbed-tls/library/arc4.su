@@ -1,0 +1,6 @@
+arc4.c:47:13:polarssl_zeroize	24	static
+arc4.c:51:6:arc4_init	32	static
+arc4.c:56:6:arc4_free	16	static
+arc4.c:67:6:arc4_setup	40	static
+arc4.c:97:5:arc4_crypt	44	static
+arc4.c:162:5:arc4_self_test	320	static

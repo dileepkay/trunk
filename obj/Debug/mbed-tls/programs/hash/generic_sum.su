@@ -1,0 +1,4 @@
+generic_sum.c:51:12:generic_wrapper	48	static
+generic_sum.c:64:12:generic_print	112	static
+generic_sum.c:79:12:generic_check	1296	static
+generic_sum.c:166:5:main	64	static

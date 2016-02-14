@@ -1,0 +1,2 @@
+error.c:183:6:polarssl_strerror	48	static
+error.c:739:6:error_strerror	32	static

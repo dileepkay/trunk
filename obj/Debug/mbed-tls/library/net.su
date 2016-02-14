@@ -1,0 +1,11 @@
+net.c:138:12:net_prepare	432	static
+net.c:162:5:net_connect	96	static
+net.c:248:5:net_bind	112	static
+net.c:377:12:net_would_block	16	static
+net.c:414:5:net_accept	176	static
+net.c:467:5:net_set_block	48	static
+net.c:478:5:net_set_nonblock	48	static
+net.c:493:6:net_usleep	80	static
+net.c:510:5:net_recv	48	static
+net.c:541:5:net_send	48	static
+net.c:572:6:net_close	32	static

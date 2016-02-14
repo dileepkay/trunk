@@ -1,0 +1,15 @@
+sha256.c:49:13:polarssl_zeroize	24	static
+sha256.c:78:6:sha256_init	32	static
+sha256.c:83:6:sha256_free	16	static
+sha256.c:94:6:sha256_starts	8	static
+sha256.c:127:6:sha256_process	316	static
+sha256.c:261:6:sha256_update	48	static
+sha256.c:310:6:sha256_finish	64	static
+sha256.c:346:6:sha256	272	static
+sha256.c:362:5:sha256_file	1312	static
+sha256.c:395:6:sha256_hmac_starts	80	static
+sha256.c:426:6:sha256_hmac_update	32	static
+sha256.c:435:6:sha256_hmac_finish	80	static
+sha256.c:455:6:sha256_hmac_reset	32	static
+sha256.c:464:6:sha256_hmac	272	static
+sha256.c:643:5:sha256_self_test	1344	static

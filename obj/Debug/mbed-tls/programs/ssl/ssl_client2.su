@@ -1,0 +1,5 @@
+ssl_client2.c:151:13:my_debug	32	static
+ssl_client2.c:163:12:my_recv	48	static
+ssl_client2.c:180:12:my_send	48	static
+ssl_client2.c:201:12:my_verify	1056	static
+ssl_client2.c:379:5:main	19040	static

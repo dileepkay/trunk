@@ -1,0 +1,7 @@
+ccm.c:43:13:polarssl_zeroize	24	static
+ccm.c:53:5:ccm_init	48	static
+ccm.c:85:6:ccm_free	32	static
+ccm.c:122:12:ccm_auth_crypt	144	static
+ccm.c:290:5:ccm_encrypt_and_tag	64	static
+ccm.c:303:5:ccm_auth_decrypt	96	static
+ccm.c:391:5:ccm_self_test	192	static

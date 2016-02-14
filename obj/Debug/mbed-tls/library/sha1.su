@@ -1,0 +1,15 @@
+sha1.c:49:13:polarssl_zeroize	24	static
+sha1.c:78:6:sha1_init	32	static
+sha1.c:83:6:sha1_free	16	static
+sha1.c:94:6:sha1_starts	8	static
+sha1.c:106:6:sha1_process	108	static
+sha1.c:265:6:sha1_update	48	static
+sha1.c:313:6:sha1_finish	64	static
+sha1.c:344:6:sha1	256	static
+sha1.c:359:5:sha1_file	1296	static
+sha1.c:392:6:sha1_hmac_starts	64	static
+sha1.c:423:6:sha1_hmac_update	32	static
+sha1.c:432:6:sha1_hmac_finish	64	static
+sha1.c:448:6:sha1_hmac_reset	32	static
+sha1.c:457:6:sha1_hmac	256	static
+sha1.c:565:5:sha1_self_test	1312	static

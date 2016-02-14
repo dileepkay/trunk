@@ -1,0 +1,16 @@
+md.h:222:29:md_get_size	8	static
+hmac_drbg.c:50:13:polarssl_zeroize	24	static
+hmac_drbg.c:57:6:hmac_drbg_update	112	static
+hmac_drbg.c:85:5:hmac_drbg_init_buf	48	static
+hmac_drbg.c:114:5:hmac_drbg_reseed	432	static
+hmac_drbg.c:155:5:hmac_drbg_init	48	static
+hmac_drbg.c:213:6:hmac_drbg_set_prediction_resistance	8	static
+hmac_drbg.c:222:6:hmac_drbg_set_entropy_len	8	static
+hmac_drbg.c:230:6:hmac_drbg_set_reseed_interval	8	static
+hmac_drbg.c:239:5:hmac_drbg_random_with_add	64	static
+hmac_drbg.c:299:5:hmac_drbg_random	48	static
+hmac_drbg.c:307:6:hmac_drbg_free	32	static
+hmac_drbg.c:318:5:hmac_drbg_write_seed_file	304	static
+hmac_drbg.c:343:5:hmac_drbg_update_seed_file	304	static
+hmac_drbg.c:428:12:hmac_drbg_self_test_entropy	48	static
+hmac_drbg.c:447:5:hmac_drbg_self_test	240	static

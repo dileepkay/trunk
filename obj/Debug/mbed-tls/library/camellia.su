@@ -1,0 +1,11 @@
+camellia.c:48:13:polarssl_zeroize	24	static
+camellia.c:297:13:camellia_feistel	24	static
+camellia.c:322:6:camellia_init	32	static
+camellia.c:327:6:camellia_free	16	static
+camellia.c:338:5:camellia_setkey_enc	320	static
+camellia.c:443:5:camellia_setkey_dec	336	static
+camellia.c:491:5:camellia_crypt_ecb	52	static
+camellia.c:554:5:camellia_crypt_cbc	80	static
+camellia.c:608:5:camellia_crypt_cfb128	40	static
+camellia.c:656:5:camellia_crypt_ctr	40	static
+camellia.c:892:5:camellia_self_test	544	static

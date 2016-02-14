@@ -1,0 +1,15 @@
+md5.c:49:13:polarssl_zeroize	24	static
+md5.c:78:6:md5_init	32	static
+md5.c:83:6:md5_free	16	static
+md5.c:94:6:md5_starts	8	static
+md5.c:105:6:md5_process	88	static
+md5.c:231:6:md5_update	48	static
+md5.c:281:6:md5_finish	64	static
+md5.c:311:6:md5	256	static
+md5.c:326:5:md5_file	1280	static
+md5.c:359:6:md5_hmac_starts	64	static
+md5.c:390:6:md5_hmac_update	32	static
+md5.c:399:6:md5_hmac_finish	48	static
+md5.c:415:6:md5_hmac_reset	32	static
+md5.c:424:6:md5_hmac	256	static
+md5.c:542:5:md5_self_test	1296	static

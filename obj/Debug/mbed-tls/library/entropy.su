@@ -1,0 +1,13 @@
+entropy.c:43:13:polarssl_zeroize	24	static
+entropy.c:49:6:entropy_init	32	static
+entropy.c:81:6:entropy_free	16	static
+entropy.c:92:5:entropy_add_source	24	static
+entropy.c:128:12:entropy_update	128	static
+entropy.c:161:5:entropy_update_manual	48	static
+entropy.c:184:12:entropy_gather_internal	176	static
+entropy.c:221:5:entropy_gather	48	static
+entropy.c:240:5:entropy_func	128	static
+entropy.c:325:5:entropy_write_seed_file	112	static
+entropy.c:350:5:entropy_update_seed_file	1072	static
+entropy.c:392:12:entropy_dummy_source	32	static
+entropy.c:408:5:entropy_self_test	976	static

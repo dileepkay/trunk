@@ -1,0 +1,8 @@
+pkwrite.c:63:12:pk_write_rsa_pubkey	48	static
+pkwrite.c:84:12:pk_write_ec_pubkey	192	static
+pkwrite.c:112:12:pk_write_ec_param	48	static
+pkwrite.c:129:5:pk_write_pubkey	48	static
+pkwrite.c:150:5:pk_write_pubkey_der	80	static
+pkwrite.c:198:5:pk_write_key_der	64	static
+pkwrite.c:377:5:pk_write_pubkey_pem	2144	static
+pkwrite.c:399:5:pk_write_key_pem	5744	static

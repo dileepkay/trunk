@@ -1,0 +1,10 @@
+debug.c:50:6:debug_set_log_mode	8	static
+debug.c:55:6:debug_set_threshold	8	static
+debug.c:60:7:debug_fmt	48	static
+debug.c:74:6:debug_print_msg	576	static
+debug.c:94:6:debug_print_ret	576	static
+debug.c:115:6:debug_print_buf	592	static
+debug.c:177:6:debug_print_ecp	576	static
+debug.c:198:6:debug_print_mpi	592	static
+debug.c:276:13:debug_print_pk	112	static
+debug.c:312:6:debug_print_crt	2176	static

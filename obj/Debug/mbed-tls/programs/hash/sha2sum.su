@@ -1,0 +1,4 @@
+sha2sum.c:51:12:sha256_wrapper	48	static
+sha2sum.c:64:12:sha256_print	80	static
+sha2sum.c:79:12:sha256_check	1200	static
+sha2sum.c:160:5:main	48	static

@@ -1,0 +1,7 @@
+xtea.c:42:13:polarssl_zeroize	24	static
+xtea.c:69:6:xtea_init	32	static
+xtea.c:74:6:xtea_free	16	static
+xtea.c:85:6:xtea_setup	48	static
+xtea.c:100:5:xtea_crypt_ecb	40	static
+xtea.c:143:5:xtea_crypt_cbc	48	static
+xtea.c:239:5:xtea_self_test	64	static

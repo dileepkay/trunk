@@ -1,0 +1,12 @@
+aes.c:54:13:polarssl_zeroize	24	static
+aes.c:385:13:aes_gen_tables	2076	static
+aes.c:463:6:aes_init	32	static
+aes.c:468:6:aes_free	16	static
+aes.c:479:5:aes_setkey_enc	48	static
+aes.c:591:5:aes_setkey_dec	336	static
+aes.c:704:5:aes_crypt_ecb	80	static
+aes.c:817:5:aes_crypt_cbc	96	static
+aes.c:883:5:aes_crypt_cfb128	48	static
+aes.c:930:5:aes_crypt_cfb8	64	static
+aes.c:964:5:aes_crypt_ctr	48	static
+aes.c:1181:5:aes_self_test	560	static
